@@ -1,4 +1,4 @@
-['../../hotIR', '../../progs', examples, fts, '../../calc']?
+['../../../common/hotIR', '../../../common/progs', examples, fts, '../../../common/calc']?
 
 :- modeh(*,badFlag(+program, #flag))?
 :- modeb(*, edge_src(+program, -func, -edge, -bb))?
