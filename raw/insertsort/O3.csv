@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"insertsort",0.23175,"-O3"
+"insertsort",0.23175,"-O3"
+"insertsort",0.23176190476190475,"-O3"

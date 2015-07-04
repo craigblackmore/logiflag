@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"compress",0.5328571428571428,"-O3"
+"compress",0.5327619047619048,"-O3"
+"compress",0.5327857142857143,"-O3"

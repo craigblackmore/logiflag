@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"mergesort",0.2438452380952381,"-O3"

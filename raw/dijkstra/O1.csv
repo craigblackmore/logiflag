@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"dijkstra",0.5956428571428571,"-O1"
+"dijkstra",0.5956904761904762,"-O1"
+"dijkstra",0.5956428571428571,"-O1"

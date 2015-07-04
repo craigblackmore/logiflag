@@ -1,0 +1,12 @@
+[-falign-functions,-falign-jumps,-falign-labels,-fbranch-count-reg,
+	-fbranch-target-load-optimize,-fbranch-target-load-optimize2,
+	-fconserve-stack,-fcrossjumping,-fcse-follow-jumps,-fdse,
+	-fearly-inlining,-fexpensive-optimizations,-fforward-propagate,
+	-fgcse-after-reload,-fgcse-sm,-finline-atomics,-fipa-profile,
+	-fipa-pta,-fipa-reference,-fipa-sra,-fpeephole2,-fpredictive-commoning,
+	-frerun-cse-after-loop,-fsched-dep-count-heuristic,-fsched-group-heuristic,
+	-fsched-interblock,-fsched-rank-heuristic,-fsched-spec,
+	-fsched-spec-load,-fsched-stalled-insns,-fsel-sched-pipelining-outer-loops,
+	-fshrink-wrap,-fsplit-wide-types,-fstrict-aliasing,-ftree-bit-ccp,
+	-ftree-cselim,-ftree-loop-distribute-patterns,-ftree-phiprop,
+	-ftree-scev-cprop,-ftree-vrp,-funroll-loops,-fvect-cost-model][]

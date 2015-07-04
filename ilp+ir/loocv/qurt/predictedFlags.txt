@@ -1,0 +1,13 @@
+[-falign-functions,-falign-jumps,-falign-labels,-fbranch-target-load-optimize,
+	-fbranch-target-load-optimize2,-fcommon,-fcompare-elim,
+	-fconserve-stack,-fcse-follow-jumps,-fdse,-fearly-inlining,
+	-fexpensive-optimizations,-fgcse-after-reload,-fgcse-sm,
+	-finline-atomics,-fipa-cp,-fipa-profile,-fipa-pta,-fipa-sra,
+	-fpeephole2,-fprefetch-loop-arrays,-frerun-cse-after-loop,
+	-fsched-dep-count-heuristic,-fsched-group-heuristic,-fsched-interblock,
+	-fsched-pressure,-fsched-rank-heuristic,-fsched-spec-load,
+	-fsched-stalled-insns,-fsel-sched-pipelining-outer-loops,
+	-fshrink-wrap,-fsplit-ivs-in-unroller,-fstrict-aliasing,
+	-ftree-bit-ccp,-ftree-ccp,-ftree-cselim,-ftree-phiprop,
+	-ftree-scev-cprop,-ftree-vect-loop-version,-ftree-vrp,
+	-funroll-loops][]

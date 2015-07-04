@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"nettle-cast128",0.46427380952380953,"-O3"
+"nettle-cast128",0.4643095238095238,"-O3"
+"nettle-cast128",0.4642857142857143,"-O3"

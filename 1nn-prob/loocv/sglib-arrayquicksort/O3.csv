@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"sglib-arrayquicksort",0.3530714285714286,"-O3"
+"sglib-arrayquicksort",0.3530357142857143,"-O3"
+"sglib-arrayquicksort",0.3530595238095238,"-O3"

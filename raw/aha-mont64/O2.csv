@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"aha-mont64",2.3539880952380954,"-O2"
+"aha-mont64",2.354,"-O2"
+"aha-mont64",2.3537857142857144,"-O2"

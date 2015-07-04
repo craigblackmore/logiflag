@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"rijndael",0.24107142857142858,"-O3"
+"rijndael",0.24109523809523808,"-O3"
+"rijndael",0.24107142857142858,"-O3"

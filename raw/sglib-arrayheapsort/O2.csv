@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"sglib-arrayheapsort",0.25761904761904764,"-O2"
+"sglib-arrayheapsort",0.25761904761904764,"-O2"
+"sglib-arrayheapsort",0.2576309523809524,"-O2"

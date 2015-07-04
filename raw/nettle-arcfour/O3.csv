@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"nettle-arcfour",0.4510952380952381,"-O3"
+"nettle-arcfour",0.45111904761904764,"-O3"
+"nettle-arcfour",0.4511428571428571,"-O3"

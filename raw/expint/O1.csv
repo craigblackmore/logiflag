@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"expint",0.6306904761904762,"-O1"
+"expint",0.63075,"-O1"
+"expint",0.6306785714285714,"-O1"

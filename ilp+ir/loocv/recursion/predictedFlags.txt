@@ -1,0 +1,8 @@
+[-falign-jumps,-falign-labels,-fbranch-count-reg,-fbranch-target-load-optimize,
+	-fbranch-target-load-optimize2,-fconserve-stack,-fcse-follow-jumps,
+	-fdse,-fipa-pta,-fipa-sra,-fpeephole2,-frerun-cse-after-loop,
+	-fsched-group-heuristic,-fsched-interblock,-fsched-rank-heuristic,
+	-fsched-spec,-fsched-spec-load,-fsched-stalled-insns,
+	-fsel-sched-pipelining-outer-loops,-fshrink-wrap,-fstrict-aliasing,
+	-ftree-bit-ccp,-ftree-cselim,-ftree-phiprop,-ftree-reassoc,
+	-funroll-loops][]

@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"strstr",0.40139285714285716,"-O3"

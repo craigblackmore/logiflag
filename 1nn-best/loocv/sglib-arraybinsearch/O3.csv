@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"sglib-arraybinsearch",0.2972619047619048,"-O3"
+"sglib-arraybinsearch",0.2972619047619048,"-O3"
+"sglib-arraybinsearch",0.29723809523809525,"-O3"

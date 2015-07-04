@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"ctl-vector",0.4051190476190476,"-O3"
+"ctl-vector",0.40508333333333335,"-O3"
+"ctl-vector",0.4050714285714286,"-O3"

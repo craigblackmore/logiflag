@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"bubblesort",0.6051904761904762,"-O1"
+"bubblesort",0.6051547619047619,"-O1"
+"bubblesort",0.6051666666666666,"-O1"

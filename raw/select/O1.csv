@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"select",0.32475,"-O1"
+"select",0.32475,"-O1"
+"select",0.3247380952380952,"-O1"

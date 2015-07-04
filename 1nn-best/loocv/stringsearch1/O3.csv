@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"stringsearch1",0.4119047619047619,"-O3"
+"stringsearch1",0.4118928571428571,"-O3"
+"stringsearch1",0.41191666666666665,"-O3"

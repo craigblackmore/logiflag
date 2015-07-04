@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"matmult-float",0.5133690476190477,"-O3"
+"matmult-float",0.5133571428571428,"-O3"
+"matmult-float",0.5133690476190477,"-O3"

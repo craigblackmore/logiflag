@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"whetstone",0.4023690476190476,"-O3"
+"whetstone",0.4023809523809524,"-O3"
+"whetstone",0.40239285714285716,"-O3"

@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"levenshtein",0.34948809523809526,"-O3"
+"levenshtein",0.3495,"-O3"
+"levenshtein",0.34951190476190475,"-O3"

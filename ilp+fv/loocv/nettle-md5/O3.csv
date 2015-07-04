@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"nettle-md5",0.48905952380952383,"-O3"

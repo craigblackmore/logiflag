@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"nettle-des",0.48219047619047617,"-O3"

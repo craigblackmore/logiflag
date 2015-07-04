@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"aha-compress",0.4599404761904762,"-O1"
+"aha-compress",0.4599285714285714,"-O1"
+"aha-compress",0.45991666666666664,"-O1"

@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"recursion",0.9540238095238095,"-O1"
+"recursion",0.954,"-O1"
+"recursion",0.9540595238095239,"-O1"

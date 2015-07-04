@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"ctl-stack",0.45680952380952383,"-O3"
+"ctl-stack",0.4567857142857143,"-O3"
+"ctl-stack",0.45682142857142854,"-O3"

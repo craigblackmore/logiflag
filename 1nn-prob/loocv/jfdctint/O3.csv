@@ -1,0 +1,4 @@
+"program","time(s)","baseflags"
+"jfdctint",0.4135714285714286,"-O3"
+"jfdctint",0.41360714285714284,"-O3"
+"jfdctint",0.4135714285714286,"-O3"

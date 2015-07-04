@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"newlib-sqrt",0.6386547619047619,"-O3"

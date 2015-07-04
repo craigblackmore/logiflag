@@ -1,0 +1,2 @@
+"program","time(s)","baseflags"
+"trio-sscanf",0.28870238095238093,"-O3"
