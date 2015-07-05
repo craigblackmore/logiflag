@@ -9,6 +9,8 @@ http://www.doc.ic.ac.uk/~shm/progol.html).
 This study uses benchmark programs from the Bristol/Embecosm Embedded Benchmark
 Suite (BEEBS), which is available at http://beebs.eu.
 
+Directory structure:
+
   ilp+ir/    - Progol scripts and output for ILP+IR
     loocv/   - leave-one-out cross validation
     whole/   - whole training set
